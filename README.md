@@ -405,4 +405,4 @@ The micro kernel runs as native x86 code inside the crash-protected
 execution environment. If anything goes wrong the exception handlers catch
 the fault and return to the TeaOS shell without crashing the system.
 
-<img width="722" height="400" alt="image" src="https://github.com/user-attachments/assets/f5c4b446-3031-45ee-b71b-8e654fc4ad21" />
+<img width="722" height="400" alt="image" src="https://github.com/user-attachments/assets/5affb5d2-a14a-4a77-b7d3-40df3a26ee3f" />
